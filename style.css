@@ -1,0 +1,26 @@
+.heading{width:100%;
+text-align: center;
+}
+.heading h3{
+    display: inline;
+
+}
+.heading button{
+    float: right;
+    border: 2px solid white;
+
+}
+
+#start,#status{font-size: 22px;
+}
+
+li{
+    text-align: left;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px white;
+    
+}
